@@ -18,5 +18,5 @@ Proyek ini bertujuan untuk menciptakan sistem kecerdasan buatan yang dapat mende
 2.	Preprocessing Gambar: Gambar dalam dataset akan diproses untuk penskalaan, normalisasi, dan perbaikan kualitas gambar. Hal ini akan memastikan konsistensi data latih.
 3.	Model Deep Learning: Kami akan menggunakan model deep learning, seperti jaringan saraf konvolusional (CNN), untuk mengembangkan model yang dapat mengidentifikasi gejala penyakit pada daun. Model ini akan belajar dari dataset dan mampu mengenali pola-pola yang mengindikasikan penyakit.
 4.	Pelatihan Model: Model AI akan dilatih menggunakan dataset yang telah diproses. Pelatihan akan melibatkan proses iteratif di mana model belajar mengenali gejala penyakit pada daun.
-5.	Evaluasi Model: Kualitas model akan diukur menggunakan metrik seperti akurasi, sensitivitas, dan spesifisitas dalam mengidentifikasi penyakit. Evaluasi akan menggunakan dataset yang berbeda dari data latih.
+5.	Evaluasi Model: Kualitas model akan diukur menggunakan metrik akurasi dalam mengidentifikasi penyakit. Evaluasi akan menggunakan dataset yang berbeda dari data latih.
 6.	Implementasi Sistem: Model AI yang telah dilatih akan diimplementasikan dalam sebuah sistem yang memungkinkan pengguna mengunggah gambar daun tomat dan kentang untuk mendapatkan diagnosis penyakit.
