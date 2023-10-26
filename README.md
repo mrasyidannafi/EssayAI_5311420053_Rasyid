@@ -1,5 +1,5 @@
-# ProjekAI_5311420053_Rasyid
-**"Pendeteksi Penyakit Daun Tomat dan Kentang Menggunakan Kecerdasan Buatan"**
+
+# **"Pendeteksi Penyakit Daun Tomat dan Kentang Menggunakan Kecerdasan Buatan"**
 
 ----
 
